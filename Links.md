@@ -14,10 +14,14 @@
 # Research Papers
 + [VOlume Detection ](https://arxiv.org/ftp/arxiv/papers/1404/1404.7174.pdf)
 + [Color Det in challenging lighting](https://arxiv.org/html/2402.04762v1)
-+   + Useless: Did not include dataset or code
+  	+ Useless: Did not include dataset or code
 + 
 # Tutorial links
 + [RasPi camera Paul McWhorter](https://www.youtube.com/watch?v=kuJpdAf07WQ)
 + [RasPi camera OpenCV](https://www.engineersgarage.com/opencv4-5-raspberry-pi-image-video-access-recording/)
 + [OpenCV Python Docs](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
-+ 
+
+# Extra Links
++ [Museum of Possibilities- accessible technologies. Includes a yellow volume detector](https://tnmop.in/Products/)
+  + The volume detection works via ensuring a connection between the electrodes when the liquid is filled
+  + So it's not that relevant for our project (where we want very specific measurements)   
